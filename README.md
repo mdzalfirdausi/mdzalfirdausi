@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Python, Numpy, and Pytorch
 - 🤝 I’m looking to collaborate on Fault detection based on Deep Learning
-- 📫 How to reach me: firdaus251@gmail.com
+- 📫 How to reach me: firdaus251 "at" gmail [dot] com
 
 <!---
 mdzalfirdausi/mdzalfirdausi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
