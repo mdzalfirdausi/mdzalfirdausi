@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mdzalfirdausi
+- 👋 Hi, I’m Firdaus, currently a PhD student @KFUPM
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Python, Numpy, and Pytorch
 - 🤝 I’m looking to collaborate on Fault detection based on Deep Learning
