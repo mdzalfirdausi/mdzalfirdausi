@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Firdaus, currently a PhD student @KFUPM
-- 👀 I’m interested in Machine Learning
+- 👀 I’m interested in Optimization, Operations Research, and Machine Learning
 - 🌱 I’m currently learning Robust Optimization
 - 🤝 I’m looking to collaborate on research on optimization
 - 📫 How to reach me: firdaus251 "at" gmail [dot] com
