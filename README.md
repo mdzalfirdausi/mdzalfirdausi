@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Firdaus
 - 👀 I’m interested in Optimization, Operations Research, and Machine Learning
-- 🌱 I’m currently learning Robust Optimization
-- 🤝 I’m looking to collaborate on research on optimization
 - 📫 How to reach me: firdaus251 "at" jimail [dot] com, ji=g
 
 <!---
