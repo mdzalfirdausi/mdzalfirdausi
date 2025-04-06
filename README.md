@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Firdaus
 - 👀 I’m interested in Optimization, Operations Research, and Machine Learning
-- 📫 How to reach me: firdaus251 "at" jimail [dot] com, ji=g
+- 📫 How to reach me: firdaus251@gmail.com
 
 <!---
 mdzalfirdausi/mdzalfirdausi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
